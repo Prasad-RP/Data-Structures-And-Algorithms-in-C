@@ -19,10 +19,7 @@ void bubblesortAdaptive(int A[], int n)
         if(sorted==1) {
             return;
         }
-
     }
-
-
 }
 
 void main()
@@ -42,6 +39,5 @@ void main()
     {
         printf("%d ",A[i]);
     }
-
-
 }
+/****** Code By Prasad Pansare ******/
