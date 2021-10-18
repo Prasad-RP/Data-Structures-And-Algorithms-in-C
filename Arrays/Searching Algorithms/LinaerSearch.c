@@ -1,3 +1,4 @@
+// This code implements Linear Search algorithm
 #include<stdio.h>
 void main()
 {
@@ -20,6 +21,5 @@ void main()
    }
     if(i==n)
     printf("element not found");
-
-
 }
+/****** Code By Prasad Pansare ******/
