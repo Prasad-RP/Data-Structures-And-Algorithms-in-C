@@ -1,3 +1,4 @@
+// This code implements Binary Search algorithm
 #include<stdio.h>
 void main()
 {
@@ -31,3 +32,4 @@ void main()
     printf("element Absent");
          
 }
+/****** Code By Prasad Pansare ******/
